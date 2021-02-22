@@ -38,5 +38,5 @@ if __name__ == '__main__':
     final = time.time()
     print(final - comienzo)
 
-    print ('Ahora pasaremos al siguiente valor de n \n')
+    print ('Ahora pasaremos al siguiente valor de n. \n')
 
